@@ -1,0 +1,12 @@
+.DropdownMenu.Trigger {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+  }
+
+  .mainDiv
+  {
+    display: flex;
+    flex-wrap: nowrap;
+    padding-left: 450px;
+  }
